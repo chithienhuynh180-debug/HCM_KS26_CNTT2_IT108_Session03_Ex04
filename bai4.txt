@@ -1,0 +1,5 @@
+phần 1. phân tích
+-task manager: %ram ~95%, %cpu thấp, đĩa cao. ram đầy nên windows đẩy dữ liệu xuống swap file trên ssd, ssd chậm hơn ram nên máy đứng.
+-ram là bàn làm việc: nhỏ, nhanh, cpu làm việc trực tiếp ở đây. storage là ngăn tủ: to, chậm hơn, cất dữ liệu lâu dài. bàn đầy thì phải cất xuống tủ rồi lấy lên lại nên lag.
+phần 2. thiết kế
+-D:/01-hoc-tap/lap-trinh-python/bai-tap
